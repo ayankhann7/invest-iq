@@ -1,0 +1,17 @@
+.dark {
+  --bg: #000000;
+  --bg-soft: #111111;
+  --card: #1a1a1a;
+  --text: #ffffff;
+  --border: #333333;
+  --accent: #c3ff00;
+}
+
+.light {
+  --bg: #f7f9fc;
+  --bg-soft: #ffffff;
+  --card: #ffffff;
+  --text: #1f2937;
+  --border: #e5e7eb;
+  --accent: #198754;
+}
