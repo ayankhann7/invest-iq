@@ -103,7 +103,7 @@ InvestIQ is a full-stack stock market analytics platform that allows users to an
 
 <div align="center">
 
-Developed with by **Shahiduddin**
+Developed with by **Shahiduddin and Ayan **
 
 *If you found this project useful, consider giving it a ⭐ it means a lot!*
 
